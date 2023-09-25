@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    /* serif betekent dat er opmaak is van de letters. sans-serif is dat het zonder opmaak is en gewoon basis */
+    background-color: goldenrod;
+}
+
+h1 {
+    font-size: 2rem;
+    /* rem betekent hier de grootte van een standaardletter dus hier nemen we 4 keer de grootte van de standaardletter */
+    color: aqua;
+}
+
+img{
+    max-width: 100%;
+}
